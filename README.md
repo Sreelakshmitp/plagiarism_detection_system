@@ -1,7 +1,8 @@
 # 🧠 Plagiarism Detection System
 
 A web-based platform for detecting plagiarism in academic submissions using intelligent NLP techniques. This system helps educators upload assignments, analyze similarities, and generate insightful plagiarism reports using TF-IDF, K-gram, and sentence-level comparison algorithms.
-![2 checking plagiarism](https://github.com/user-attachments/assets/1cfec2e4-513f-45c1-9828-264769669b66)
+
+![2 checking plagiarism](https://github.com/user-attachments/assets/70f13c73-3b7e-45a8-83a9-52cb04dd5214)
 
 ---
 
